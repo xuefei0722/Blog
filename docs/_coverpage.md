@@ -4,7 +4,7 @@
 
 - 记录技术学习心路历程，如果本文能为您得到帮助，请给予关注支持！
 
-[![stars](https://badgen.net/github/stars/wxiaoshuang/Blogs?icon=github&color=4ab8a1)](https://github.com/wxiaoshuang/Blogs) [![forks](https://badgen.net/github/forks/wxiaoshuang/Blogs?icon=github&color=4ab8a1)](https://github.com/wxiaoshuang/Blogs)
+[![stars](https://badgen.net/github/stars/xuefei0722/Blog?icon=github&color=4ab8a1)](https://github.com/xuefei0722/Blog) [![forks](https://badgen.net/github/forks/xuefei0722/Blog?icon=github&color=4ab8a1)](https://github.com/xuefei0722/Blog)
 
 [GitHub](<https://github.com/xuefei0722/Blog>)
 [开始阅读](README.md)
