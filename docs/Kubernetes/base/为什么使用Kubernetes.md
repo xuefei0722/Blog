@@ -1,6 +1,6 @@
 #### 为什么使用Kubernetes？
 
-![](./images/Kubernetes.png)
+![](./images/Kubernetes.png':size=67%')
 
 Kubernetes 已经越来越流行，已经成为当前市场上最好的容器编排工具之一。
 
