@@ -10,3 +10,5 @@
   * [进阶教程](/Shell/base/)
   * [高级教程](/Shell/base/)
   * [实战教程](/Shell/practice/)
+* **Linux**
+  * [Linux双网配置](/Linux/Linux双网卡配置.md)  
