@@ -3,7 +3,6 @@
     * [基础](/Docker/base/)
 * [Kubernetes](/)
     * [Kubernetes基础](/Kubernetes/base/)
-* [Linux](/)
-    * [常用命令](/)
+* [Linux](/Linux/)
 * [MySQL](/)
 * [Oracle](/)
