@@ -12,3 +12,5 @@
   * [实战教程](/Shell/practice/)
 * **Linux**
   * [Linux双网配置](/Linux/Linux双网卡配置.md)
+* **macOS**
+  * [解决macOS上应用打开提示已损坏问题](/macOS/解决macOS上应用打开提示已损坏问题.md)
