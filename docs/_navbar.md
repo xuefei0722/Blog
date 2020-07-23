@@ -7,6 +7,7 @@
   * [Nginx](/Nginx/)
   * [Tomcat](/Tomcat/)
   * [Redis](/Redis/)
+  * [Grafana](/Grafana/)
 * 数据库
   * [MySQL](/MySQL/)
   * [Oracle](/Oracle/)
