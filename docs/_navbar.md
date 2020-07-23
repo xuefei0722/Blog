@@ -5,7 +5,8 @@
 * [Linux](/Linux/)
 * 中间件
   * [Nginx](/Nginx/)
-  * [Tomcat][/Tomcat/]
+  * [Tomcat](/Tomcat/)
+  * [Redis](/Redis/)
 * 数据库
   * [MySQL](/MySQL/)
   * [Oracle](/Oracle/)
