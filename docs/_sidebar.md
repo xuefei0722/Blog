@@ -2,7 +2,7 @@
   * [简介](README.md)
   * [博客语法](syntax.md)
 * **Docker**
-  * [Docker基础](/Docker/base/docker-base.md)
+  * [Docker 容器资源限制配置实践](/Docker/容器资源限制配置.md)
 * **Kubernetes**
   * [为什么使用Kubernetes?](/Kubernetes/base/为什么使用Kubernetes.md)
 * **Shell编程**
