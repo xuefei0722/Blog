@@ -10,6 +10,8 @@
 * **Linux**
   * [Linux双网配置](/Linux/Linux双网卡配置.md)
 * **Ceph**
+* **WebLogic**
+
 * **Redis**
 * **Tomcat**
 * **Nginx**

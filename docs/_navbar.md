@@ -4,6 +4,7 @@
   * [Kubernetes](/Kubernets/)
 * [Linux](/Linux/)
 * [中间件](/)
+  * [WebLogic](/WebLogic)
   * [Nginx](/Nginx/)
   * [Tomcat](/Tomcat/)
   * [Redis](/Redis/)
