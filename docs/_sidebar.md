@@ -11,7 +11,7 @@
   * [Linux双网配置](/Linux/Linux双网卡配置.md)
 * **Ceph**
 * **WebLogic**
-
+  * [WebLogic Server 应用发布最佳实践](/WebLogic/WebLogic_Server应用发布最佳实践.md)
 * **Redis**
 * **Tomcat**
 * **Nginx**
