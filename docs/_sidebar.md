@@ -17,3 +17,5 @@
   * [解决macOS上应用打开提示已损坏问题](/macOS/解决macOS上应用打开提示已损坏问题.md)
 * **Zabbix**
 * **Prometheus**
+* **工具箱**
+  * [iTerm2](/Tools/iTerm2.md)
