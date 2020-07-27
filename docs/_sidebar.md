@@ -6,6 +6,7 @@
   * [解决容器无法访问宿主机端口问题](/Docker/解决docker容器内无法通过IP地址访问宿主机端口服务.md)
 * **Kubernetes**
   * [为什么使用Kubernetes?](/Kubernetes/base/为什么使用Kubernetes.md)
+  * [解决ingress发布websocket长连接服务超时问题](/Kubernetes/解决ingress发布websocket长连接服务超时问题.md)
 * **Shell编程**
 * **Linux**
   * [Linux双网配置](/Linux/Linux双网卡配置.md)
